@@ -11,7 +11,7 @@ Our method, termed Latent Evolution of PDEs with Uncertainty Quantification (LE-
 
 In extensive experiments, we demonstrate the accurate uncertainty quantification performance of our approach, surpassing that of strong baselines including deep ensembles, Bayesian neural network layers, and dropout. Our method excels at propagating uncertainty over extended auto-regressive rollouts, making it suitable for scenarios involving long-term predictions.
 
-<a href="url"><img src="https://github.com/snap-stanford/le_pde/blob/master/assets/le_pde_uq.png" align="center" width="700" ></a>
+<a href="url"><img src="./assert/le_pde_uq.png" align="center" width="700" ></a>
 
 # Installation
 
