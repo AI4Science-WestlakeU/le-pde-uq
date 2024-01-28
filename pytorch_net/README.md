@@ -1,0 +1,1 @@
+The entire Package "pytorch_net" comes from a publicly available code repository that has no affiliation with us.The entire Package "pytorch_net" comes from a publicly available code repository that has no affiliation with us. The specific link to this repository is as follows: https://github.com/tailintalent/pytorch_net/tree/ff2e5db17c678c022c2dfdf5ff670e0290c4a750
