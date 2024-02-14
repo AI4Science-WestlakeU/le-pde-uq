@@ -1,4 +1,4 @@
-## LE-PDE-UQ: Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution
+# LE-PDE-UQ: Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution
 
 [Paper](https://arxiv.org/abs/2206.07681) | [Poster](https://github.com/snap-stanford/le_pde/blob/master/assets/lepde_poster.pdf) | [Slide](https://docs.google.com/presentation/d/1Qgbd_vVbFAnjqkvIH8p_t9mfUQRWKr1ZAkxzzavoGhc/edit?usp=share_link)
 
@@ -155,10 +155,10 @@ All the analysis codes we used can be found in the le_pde_uq_analysis.ipynb note
 If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
-@inproceedings{wu2022learning,
+@inproceedings{wu2024uncertainty,
 title={Learning to accelerate partial differential equations via latent global evolution},
-author={Wu, Tailin and Maruyama, Takashi and Leskovec, Jure},
-booktitle={Neural Information Processing Systems},
-year={2022},
+author={Wu, Tailin and Neiswanger, Willie and Zheng, Hongtao and Ermon, Stefano and Leskovec, Jure},
+booktitle={Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence},
+year={2024},
 }
 ```
