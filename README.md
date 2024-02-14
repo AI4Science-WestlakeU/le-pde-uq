@@ -147,6 +147,7 @@ export OMP_NUM_THREADS=6; python3 train.py --exp_id=anonymous-uncertainty --date
 All the analysis codes we used can be found in the le_pde_uq_analysis.ipynb notebook.
 
 # Related Projects:
+* [CinDM](https://github.com/AI4Science-WestlakeU/cindm) (ICLR 2024 spotlight): We introduce a method that uses compositional generative models to design boundaries and initial states significantly more complex than the ones seen in training for physical simulations.
 
 * [LAMP](https://github.com/snap-stanford/lamp) (ICLR 2023 spotlight): first fully DL-based surrogate model that jointly optimizes spatial resolutions to reduce computational cost and learns the evolution model, learned via reinforcement learning.
 
