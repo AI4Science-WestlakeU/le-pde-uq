@@ -156,7 +156,7 @@ If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
 @inproceedings{wu2024uncertainty,
-title={Learning to accelerate partial differential equations via latent global evolution},
+title={Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution},
 author={Wu, Tailin and Neiswanger, Willie and Zheng, Hongtao and Ermon, Stefano and Leskovec, Jure},
 booktitle={Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence},
 year={2024},
