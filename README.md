@@ -1,6 +1,6 @@
 # LE-PDE-UQ: Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution
 
-[Paper](https://arxiv.org/abs/2402.08383) | [Poster](https://github.com/snap-stanford/le_pde/blob/master/assets/lepde_poster.pdf) | [Slide](https://docs.google.com/presentation/d/1Qgbd_vVbFAnjqkvIH8p_t9mfUQRWKr1ZAkxzzavoGhc/edit?usp=share_link)
+[Paper](https://arxiv.org/abs/2402.08383) | [Poster](https://github.com/AI4Science-WestlakeU/le-pde-uq/blob/main/assert/poster.pdf) | [Slide](https://github.com/AI4Science-WestlakeU/le-pde-uq/blob/main/assert/slide.pdf)
 
 Official repo for the paper [Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution](https://arxiv.org/abs/2402.08383) </br>
 [Tailin Wu](https://tailin.org/), [Willie Neiswanger](https://willieneis.github.io/), Hongtao Zheng, [Stefano Ermon](https://cs.stanford.edu/~ermon/), [Jure Leskovec](https://cs.stanford.edu/people/jure/) </br>
