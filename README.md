@@ -1,6 +1,6 @@
 # LE-PDE-UQ: Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution
 
-[Paper](https://arxiv.org/abs/2402.08383) | [Poster](https://github.com/AI4Science-WestlakeU/le-pde-uq/blob/main/assert/poster.pdf) | [Slide](https://github.com/AI4Science-WestlakeU/le-pde-uq/blob/main/assert/slide.pdf)
+[Paper](https://arxiv.org/abs/2402.08383) | [Poster](https://github.com/AI4Science-WestlakeU/le-pde-uq/blob/main/assets/poster.pdf) | [Slide](https://github.com/AI4Science-WestlakeU/le-pde-uq/blob/main/assets/slide.pdf)
 
 Official repo for the paper [Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution](https://arxiv.org/abs/2402.08383) </br>
 [Tailin Wu](https://tailin.org/), [Willie Neiswanger](https://willieneis.github.io/), Hongtao Zheng, [Stefano Ermon](https://cs.stanford.edu/~ermon/), [Jure Leskovec](https://cs.stanford.edu/people/jure/) </br>
@@ -11,7 +11,7 @@ Our method, termed Latent Evolution of PDEs with Uncertainty Quantification (LE-
 
 In extensive experiments, we demonstrate the accurate uncertainty quantification performance of our approach, surpassing that of strong baselines including deep ensembles, Bayesian neural network layers, and dropout. Our method excels at propagating uncertainty over extended auto-regressive rollouts, making it suitable for scenarios involving long-term predictions.
 
-<a href="url"><img src="./assert/le_pde_uq.png" align="center" width="700" ></a>
+<a href="url"><img src="./assets/le_pde_uq.png" align="center" width="700" ></a>
 
 # Installation
 
